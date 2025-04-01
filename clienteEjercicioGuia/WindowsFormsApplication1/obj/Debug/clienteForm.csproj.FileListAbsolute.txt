@@ -105,3 +105,13 @@ F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServicorConExclusionM
 F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServicorConExclusionMutua\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
 F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServicorConExclusionMutua\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 F:\Julio2018\Docencia\SO\2021-2022Q2\EjercicioGuiaEnGitHub\ServicorConExclusionMutua\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\tiffa\OneDrive\Desktop\Universidad\2nd de carrera\2nd cuatri\so\Git\MIEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
